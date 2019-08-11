@@ -1,0 +1,15 @@
+cat /etc/*release
+will tell you the current version of ubuntu and if it is not current then use
+sudo apt-get update && upgrade
+Your current version will be updated.
+
+So run python in terminal it will tell you the currrent version you have installed in the system.
+
+python3 is by default installed in ubuntu 18.04 Bionic Beaver that I am using.
+
+So If you want python 2.7, then write
+sudo apt-get -y install python2.7 python-pip or
+sudo apt-get install python2.7 python-pip
+
+If you want to install sshd
+sudo apt install openssh-server.
