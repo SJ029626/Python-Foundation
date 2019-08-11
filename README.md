@@ -17,6 +17,6 @@ remote: Compressing objects: 100% (5/5), done.
 remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (5/5), done.
 ```
-You can also email me regarding any doubts
-**NAME** : **Sanyam Jain**
+You can also email me regarding any doubts,<br>
+**NAME** : **Sanyam Jain**,<br>
 **EMAIL**: **SJ02.9626@gmail.com**
