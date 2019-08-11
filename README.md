@@ -1,10 +1,10 @@
 # Python-Foundation
-Name : <EaglePhoenix>
-Contributor : <SJ02[.]9626[@]gmail[.]com>
+Name : <EaglePhoenix> <br>
+Contributor : <SJ02[.]9626[@]gmail[.]com> <br>
 
-There are several concept and programs which you need to know if you want to start.
+There are several concept and programs which you need to know if you want to start. <br>
 
-This repository will detail you about the small-small codes of Python that you should do when you start learning python.
+This repository will detail you about the small-small codes of Python that you should do when you start learning python.<br>
 
 
 To clone the repository on your local machine, use the following commands:
