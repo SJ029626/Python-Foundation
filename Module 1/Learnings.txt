@@ -1,0 +1,12 @@
+So In this module I learned the difference between python 2.7 and 3.x
+=> Python 2.7 is used for production development and many companies are using it today also.
+=> Python3.x is used for new development.
+
+"#!/bin/python" => It is used to tell that the program we are running is of python.
+Also There is a command called "which Python" which will tell you what is the location of your bin python like
+"#!/usr/bin/python3"
+we can also use it.
+Remember the python is an interpreter language.
+
+Python for Beginners: Quick Ramp-up with no nonsense - Udemy
+First of all thanks too : Shakil khan for this amazing course.
