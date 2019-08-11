@@ -4,9 +4,8 @@ Contributor : <SJ02[.]9626[@]gmail[.]com>
 
 There are several concept and programs which you need to know if you want to start.
 
-"""
 This repository will detail you about the small-small codes of Python that you should do when you start learning python.
-"""
+
 
 To clone the repository on your local machine, use the following commands:
 ```
